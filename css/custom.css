@@ -129,6 +129,17 @@ a:hover {
     font-size: 0.9375em;
     color: #8c8c8c; }
 
+.award .award-list a:link{
+	text-decoration: none;
+}
+
+.award .award-list a:hover{text-decoration: underline;}
+
+.award .award-list a:visited{text-decoration: none;}
+
+.award .award-list a:active{text-decoration: underline;}
+
+
 .skills .skill-list {
   color: #8c8c8c;
   font-size: 0.9375em;
