@@ -1,7 +1,4 @@
-/*
- *  Draco HTML Template by @flamekaizar
- *  License: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
- */
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display SC", serif;
   color: #333333; }
@@ -133,10 +130,13 @@ a:hover {
     color: #8c8c8c; }
 
 .skills .skill-list {
+  color: #8c8c8c;
+  font-size: 0.9375em;
   margin-left: 0px; }
+  
   .skills .skill-list li:first-child {
-    font-size: 0.9375em;
-    color: #8c8c8c; }
+    
+     }
 
 .quote {
   background: url(../img/bg.jpg);
